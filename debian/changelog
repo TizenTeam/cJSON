@@ -1,0 +1,5 @@
+cjson (0.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <rzr@gna.org>  Mon, 20 Mar 2017 23:11:48 +0100
